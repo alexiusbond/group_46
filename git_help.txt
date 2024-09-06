@@ -8,6 +8,7 @@ git config --global user.email "ВАШ EMAIL"
 
 git init - инициализирует проект(.git)
 git remote add origin <HTTPS link.git> - соединяет репозиторий и ваш проект
+.gitignore
 
 ======>>> команды, которые пишем каждый раз когда хотим отправить изменения проекта в репозиторий:
 
