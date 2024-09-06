@@ -1,8 +1,8 @@
-======>>> Первые три комманды пишутся только один раз когда вы установили git на свой компьютер
+======>>> Первые три команды пишутся только один раз когда вы установили git на свой компьютер
 
 git --version - показывает версию установленной программы гит
-git config --global user.name "alexiusbond"
-git config --global user.email "aleksey.bondarev@iaau.edu.kg"
+git config --global user.name "ВАШ ЛОГИН"
+git config --global user.email "ВАШ EMAIL"
 
 ======>>> 1 раз при создании нового проекта
 
