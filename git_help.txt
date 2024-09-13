@@ -30,3 +30,5 @@ git log - показывает историю коммитов
 git branch - показывает все ветки
 git branch name - создает новую ветку с указанным название name но не переключает нас на нее
 git checkout name - переключение на ветку под названием name
+git branch --delete new_features - удаляет ветку локально
+git push origin --delete new_features - удаляет ветку в репозтитории
