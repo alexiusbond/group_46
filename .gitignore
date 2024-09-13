@@ -1,5 +1,8 @@
 .idea
 .venv
 odd.txt
+
+
+
 settings.ini
 utils/__pycache__/
